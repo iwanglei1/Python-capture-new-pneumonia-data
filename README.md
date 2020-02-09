@@ -1,1 +1,1 @@
-# python-
+＃蟒蛇-简单小项目ppython3在Windows上使用的火狐浏览器
