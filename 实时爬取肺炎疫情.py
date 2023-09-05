@@ -62,7 +62,7 @@ def Send_SMS(message):
         .create(
         body=message,
         from_='+12013992154',
-        to='+86 13563303463'
+        to='+86 xxxxxxx'
     )
 
 
